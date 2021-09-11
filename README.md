@@ -1,5 +1,5 @@
-# linear-algebra
-Linear algebra study group
+# Linear algebra study group
+
 
 + Every day : 5시 30분
 + 구글 meet
