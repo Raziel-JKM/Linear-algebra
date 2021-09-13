@@ -1,6 +1,6 @@
 # Linear algebra study group
 
-+ 강의 : [khanacademy](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces)
++ 강의 : [khanacademy](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces) / [Edwith](https://www.boostcourse.org/ai151/lecture/536621?isDesc=false)
 + [Notion](https://modulabs.notion.site/dd731b6bbcd04162842ae9fe197ddb89)  
 + Every day : 5시 30분
 + Google Meet
