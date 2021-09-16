@@ -1,4 +1,4 @@
-# Linear algebra study group
+# Linear Algebra Study
 
 + [Notion]()  / [Coding The Matrix](https://github.com/ExcelsiorCJH/CodingTheMatrix)
 + Every day : 5시 30분
