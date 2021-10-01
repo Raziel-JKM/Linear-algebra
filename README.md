@@ -6,3 +6,6 @@
 + 선형대수 : [khan academy](https://ko.khanacademy.org/math/linear-algebra) / [Edwith](https://www.boostcourse.org/ai151/lecture/536621?isDesc=false) / 
 + 심화 : [인공지능을위한 선형대수](https://www.boostcourse.org/ai251/joinLectures/195088)
 
+
+참고
+- 교재 [#](http://matrix.skku.ac.kr/math4AI-tools/)
